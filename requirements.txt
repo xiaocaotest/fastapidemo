@@ -1,0 +1,9 @@
+aioredis==2.0.1
+fastapi==0.77.1
+jose==1.0.0
+loguru==0.6.0
+passlib==1.7.4
+pydantic==1.9.0
+requests==2.26.0
+SQLAlchemy==1.4.32
+uvicorn==0.17.6
